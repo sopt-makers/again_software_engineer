@@ -1,0 +1,4 @@
+# PR을 열면 작성자를 Assignee로 자동 지정한다.
+# Reviewer는 .github/CODEOWNERS가 담당하므로 여기서는 지정하지 않는다.
+addAssignees: author
+addReviewers: false
