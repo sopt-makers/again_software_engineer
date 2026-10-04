@@ -4,7 +4,7 @@ module.exports = async ({ github, context, core }) => {
     "jin-evergreen": "박진석",
     sonnnnhe: "손하은",
     "constantly-dev": "이진혁",
-    thalxmsk: "장민수",
+    tnalxmsk: "장민수",
     exceptanyone: "장정안",
     jeonghoon11: "장정훈",
     jogpfls: "조혜린",
